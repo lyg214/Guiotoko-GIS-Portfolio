@@ -1,6 +1,5 @@
 # Guiotoko-GIS-Portfolio
 This is my portfolio for the advanced GIS course at CMU. 
-https://lyg214.github.io/Guiotoko-GIS-Portfolio/
 
 # About Me
 Hi! I am Lisa Guiotoko(she/her/hers). 
