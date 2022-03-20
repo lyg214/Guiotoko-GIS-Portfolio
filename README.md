@@ -4,7 +4,7 @@ This is my portfolio for the advanced GIS course at CMU.
 # About Me
 Hi! I am Lisa Guiotoko(she/her/hers). 
 
-I am a second year MS Candidate at the Heinz College of Information Systems and Public Policy at Carnegie Mellon University, studying Public Policy and Management. My concentration is Policy Analysis, which covers policy analysis tools (ex: Programming R for Analytics, Programming with Python, GIS, Program Evaluation and Policy Analysis in Practice) and management (ex: Management Science, Evidence Based Management, and Project Management).
+I am a second year MS Candidate at the Heinz College of Information Systems and Public Policy at Carnegie Mellon University, studying Public Policy and Management. My concentration is Policy Analysis, which covers policy analysis tools (ex: Cost Benefit Analysis, Programming R for Analytics, Programming with Python, GIS, Program Evaluation and Policy Analysis in Practice) and management (ex: Management Science, Evidence Based Management, and Project Management).
 
 I am from Irvine, California, a city that is about an hour away from West LA. I studied International studies and Environmental Geography at University of California, Los Angeles (UCLA). After graduating my undergraduate and during my time at Heinz, I worked as a Japanese teacher and interned at an IT consulting company supported implementing ERP systems. 
 
