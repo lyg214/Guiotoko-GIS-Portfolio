@@ -15,4 +15,5 @@ Through this course I hope to gain new skills on how to present and analyze data
 
 # Portfolio 
 Class Work: Tutorials
+
 Assignment 1: A custom Google Map for a non-profit organization
