@@ -1,6 +1,7 @@
 # Build and deploy a custom Google Map for a non-profit organization
 ## Homewood Children's Village 
 The images for the project was obtained from the organization website: https://hcvpgh.org/about/
+
 ![image](https://user-images.githubusercontent.com/98058104/159200846-bcb8338c-80e6-4ad2-957b-6650a31d93f6.png)
 ![image](https://user-images.githubusercontent.com/98058104/159200870-0b2ba378-3e72-4779-8691-f6e1cd6c3b92.png)
 
