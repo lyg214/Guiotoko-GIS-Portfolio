@@ -51,10 +51,9 @@ I changed colors of following sections as listed:
 After all these changes were made, I clicked Finish, and saved the copy of json code as "hcv_custom_map.json".   
 
 ## Dynamic Map
-<!DOCTYPE html>
 <html>
   <head>
-    <title>Give me a name!</title>
+    <title>HCV style map!</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
