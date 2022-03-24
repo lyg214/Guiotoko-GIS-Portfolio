@@ -12,5 +12,5 @@ I am from Irvine, California, a city that is about an hour away from West LA. I 
 Through this course I hope to gain new skills on how to present and analyze data through maps. I would like to get a better understanding not only on how to create maps using different methods, but also on how to crique and make suggestions. I am excited to gain all these skills and be able to utilize them on the final project. Hopefully for the final project, I can create a geographical analysis on neighborhood change and gentrification that can be easily understood by wider audiences. 
 
 # Portfolio 
-- Class: 
+- Class: [Class Works](ClassTutorials.md)
 - Assignment 1: [A custom Google Map for a non-profit organization](HCV-custom-google-map.md)
