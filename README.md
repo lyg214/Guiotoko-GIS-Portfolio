@@ -14,4 +14,4 @@ Through this course I hope to gain new skills on how to present and analyze data
 # Portfolio 
 - Class: [Class Works](ClassTutorials.md)
 - Assignment 1: [A custom Google Map for a non-profit organization](HCV-custom-google-map.md)
-- Assignment 2: [Using ArcGIS Insights to Enrich and analyze DEA's Pain Pill data](DEA's Pain Pill Analysis.md)
+- Assignment 2: [Using ArcGIS Insights to Enrich and analyze DEA's Pain Pill data](DEA's_Pain_Pill_Analysis.md)
