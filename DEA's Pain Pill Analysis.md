@@ -1,6 +1,8 @@
 # Using ArcGIS Insights to investigate the DEA's pain pill database
 I used desktop version of ArcGIS Insights to conduct the analysis on the DEA's pain pill database released by the Washington Post.  
 
+![Screenshot](map.png)
+![Screenshot](tables.png)
 
 
 ## Method
@@ -19,6 +21,8 @@ I used desktop version of ArcGIS Insights to conduct the analysis on the DEA's p
 13. And play around with the table.
 
 ## Personal take on ArcGIS Insights and ArcGIS Pro
+[Pitch deck on ArcGIS Insights and ArcGIS Pro Comparison](https://docs.google.com/presentation/d/1JPHD2W4yHXo6l1XsdnEic5aHiKg4bGgfKdibC_-oUZw/edit?usp=sharing)
+
 I personally enjoyed using ArcGIS Insights. I really loved how easy it was to generate analysis using the drag and drop interface. Though I believe if we want to provide some sophisticated analysis or make presentations (static), ArcGIS Pro would work better. I tried using ArcGIS Insights for one of my presentations last week. After I finished creating the maps, I found out the software doesn’t allow users to save individual cards. It took me a while to realize that I would have to either create an individual workbook or export the data and create a separate map on ArcGIS Pro to save it individually. In addition, ArcGIS Pro allows users have better customization including the maps itself and layouts, which made it easier to create PowerPoint slides.
 
 Though, the effort it requires to create general maps is significantly less compared to ArcGIS Pro.  While I was working on the DEA pain pill data, it surprised me on how easy it was to do link analysis. You just had to select two location data and map it out. It definitely allowed similar work that you can do on Pro, while making the process easier for users.
@@ -26,4 +30,3 @@ Though, the effort it requires to create general maps is significantly less comp
 I did have an issue enriching the data. As other have experienced, I ran into an issue where a separate table with enriched data did not appear, and instead the population got aggregated to the original table (table with buyer/provider excel data). So there were minor technical issues.
 
 Though overall, it allows users to see the holistic view of the data. It is a great tool that allows wider audience to generate a general analysis or to start the analysis on.  
-
