@@ -1,5 +1,0 @@
-# Using ArcGIS Insights to investigate the DEA's pain pill database
-
-In this exercise we're going to use the desktop version of ArcGIS Insights to conduct our analysis on the DEA's pain pill database released by the Washington Post.  ArcGIS Insights appears to be Esri's answer to Tableau.  It allows you to bring in geospatial data through a drag-and-drop interface while creating dashboards with multiple, linked data visualizations.  It also provides a way to communicate the entire analysis process through the Analysis view.  For this exercise we'll be experimenting with some of ArcGIS Insight's capabilities. 
-
-The DEA database "tracks the path of every single pain pill sold in the United States — by manufacturers and distributors to pharmacies in every town and city", and we're going to investigate the dataset further here. 
