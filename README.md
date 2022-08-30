@@ -22,3 +22,4 @@ With the completion of the course, I was able to attain majority of the goals th
 - Assignment 2: [Using ArcGIS Insights to Enrich and analyze DEA's Pain Pill data](DEA's_Pain_Pill_Analysis.md)
 - Assignment 3: [Spatial Data Science Part I: notbook documentation](Data_Engineering_Notebook.html)
 - Final Project: [Climate Gentrification in LA](Final_Project.md)
+- Extra: [Neighborhood Change in OC](OC_neighborhood_change.md)
