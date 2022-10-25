@@ -17,7 +17,6 @@ There were multiple expectations and goals set prior to the course.
 With the completion of the course, I was able to attain majority of the goals that I have set. I was able to learn new softwares and methods including notebook, and ArcGIS Insights. I gained knew knowledge on prediction modeling, suitability models and how to program maps in python.
 
 # Portfolio 
-- Class: [Class Works](ClassTutorials.md)
 - Assignment 1: [A custom Google Map for a non-profit organization](HCV-custom-google-map.md)
 - Assignment 2: [Using ArcGIS Insights to Enrich and analyze DEA's Pain Pill data](DEA's_Pain_Pill_Analysis.md)
 - Assignment 3: [Spatial Data Science Part I: notbook documentation](Data_Engineering_Notebook.html)
